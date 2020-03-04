@@ -1,0 +1,11 @@
+server:
+  port: 8092
+  
+spring:
+  application:
+    name: movie-rating-data-service
+    
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8767/eureka

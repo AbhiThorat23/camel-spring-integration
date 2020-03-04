@@ -1,0 +1,21 @@
+app:
+  camel:
+    rest:
+      component:
+        host: localhost
+        name: servlet
+        port: 8084
+      
+camel:
+  component:
+    servlet:
+      mapping:
+        context-path: /*
+server:
+  port: 8084
+
+movie:
+  rating:
+    greeting:
+      url: http://localhost:8092/ratings/greeting
+    url: http://localhost:8092/ratings/users

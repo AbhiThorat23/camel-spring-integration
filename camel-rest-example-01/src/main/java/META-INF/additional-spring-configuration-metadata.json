@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "app.camel.rest.component.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.camel.rest.component.name'"
+  },
+  {
+    "name": "app.camel.rest.component.port",
+    "type": "java.lang.String",
+    "description": "A description for 'app.camel.rest.component.port'"
+  },
+  {
+    "name": "app.camel.rest.component.host",
+    "type": "java.lang.String",
+    "description": "A description for 'app.camel.rest.component.host'"
+  },
+  {
+    "name": "app.camel.rest.greeting",
+    "type": "java.lang.String",
+    "description": "A description for 'app.camel.rest.greeting'"
+  },
+  {
+    "name": "app.camel.rest.abc",
+    "type": "java.lang.String",
+    "description": "A description for 'app.camel.rest.abc'"
+  },
+  {
+    "name": "movie.rating.greeting.url",
+    "type": "java.lang.String",
+    "description": "A description for 'movie.rating.greeting.url'"
+  },
+  {
+    "name": "movie.rating.url",
+    "type": "java.lang.String",
+    "description": "A description for 'movie.rating.url'"
+  }
+]}
